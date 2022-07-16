@@ -148,7 +148,7 @@
 
     class AbstractFactory
     {
-        public static void Main()
+        public static void Start()
         {
             new Client().Main();
         }

@@ -132,7 +132,7 @@
 
     class Builder
     {
-        public static void Main(string[] args)
+        public static void Start()
         {
             // Клиентский код создаёт объект-строитель, передаёт его директору,
             // а затем инициирует  процесс построения. Конечный результат

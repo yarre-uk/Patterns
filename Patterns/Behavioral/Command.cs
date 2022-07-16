@@ -1,4 +1,4 @@
-﻿namespace Patterns.Behavioral
+﻿namespace Command
 {
     // Интерфейс Команды объявляет метод для выполнения команд.
     public interface ICommand
@@ -108,7 +108,7 @@
 
     class Command
     {
-        public static void Main()
+        public static void Start()
         {
             // Клиентский код может параметризовать отправителя любыми
             // командами.

@@ -42,7 +42,7 @@
 
     class Singleton
     {
-        public static void Main(string[] args)
+        public static void Start()
         {
             // Клиентский код.
             Singleton_ s1 = Singleton_.GetInstance();

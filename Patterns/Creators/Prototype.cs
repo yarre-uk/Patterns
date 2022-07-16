@@ -33,7 +33,7 @@
 
     class Prototype
     {
-        public static void Main(string[] args)
+        public static void Start()
         {
             Person p1 = new Person();
             p1.Age = 42;

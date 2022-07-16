@@ -102,7 +102,7 @@
 
     class FactoryMethod
     {
-        public static void Main(string[] args)
+        public static void Start()
         {
             new Client().Main();
         }
