@@ -4,7 +4,6 @@
 *.config
 *.testlog
 *.manifest
-*.sln
 *.csproj
 *.v1
 *.v2
